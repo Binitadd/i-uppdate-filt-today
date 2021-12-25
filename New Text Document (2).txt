@@ -1,1 +1,3 @@
-hello class of dec
+1,hello class of dec
+its
+2, new text
